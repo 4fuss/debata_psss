@@ -1,1 +1,1 @@
-![](logos/rollup.png)
+![Świetlik](logos/rollup.png)
