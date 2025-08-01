@@ -1,0 +1,67 @@
+countdown.days: Dni
+countdown.hours: Godz.
+countdown.minutes: Min.
+countdown.seconds: Sek.
+cta_banner.message: Get your ticket now!
+cta_button.get_ticket: Register now!
+cta_section.heading: Have you discovered something exciting?
+cta_section.subheading: Register today!
+cta_section.message: |
+    Don't miss the chance to learn from leading experts and make valuable
+    contacts!
+header_featured_speakers: Główni Mówcy
+speakers_page.heading: Mówcy
+speakers_page.social_links: '{{ . }} media społecznościowe'
+sessions_page.heading: Harmonogram
+sessions_page.day: Dzień {{ . }}
+sessions_page.heading_day_filter: Data
+sessions_page.heading_track_filter: Panel
+sessions_page.speaker: Mówca
+sessions_page.room: Sala
+sessions_page.read_more: dowiedz się wiećej
+sessions_page.heading_no_sessions: Jeszcze nie zaplanowano żadnej sesji
+sessions_page.heading_come_back_soon: Zajrzyj ponownie wkrótce lub śledź nas na mediach społecznościowych
+menu.code_of_conduct: Code of Conduct
+menu.about: O nas
+menu.sessions: Harmonogram
+menu.speakers: Mówcy
+menu.location: Miejsce
+menu.sponsors: Sponsorzy i Partnerzy
+main_menu.label: Menu Główne
+social-links_list.label: Media społecznościowe
+secondary_menu.label: Menu podrzędne
+language_menu.label: Wybierz język
+location_page.heading: Miejsce
+location_page.directions_heading: Wskazówki
+location_page.map_frame: Mapa interaktywna miejsca wydarzenia
+location_page.map_fullscreen: Zobacz powiększoną mapę wydarzenia
+sponsors_page.heading_sponsors: Sponsorzy
+sponsors_page.heading_partners: Partnerzy
+about_page.heading: O nas
+about_page.organizers_heading: 'Zespół organizacyjny {{ . }}'
+conference_tracks_section.heading: Panele konferencji
+conference_tracks_section.subheading: Okryj nasze tematy
+conference_tracks_section.action: Open schedule
+featured_speakers_section.heading: Główni mówcy
+featured_speakers_section.subheading: Poznaj Ekspertów
+featured_speakers_section.action: Wszyscy mówcy
+featured_sessions_section.heading: Główne sesje
+featured_sessions_section.read_more: czytaj więcej
+featured_sessions_section.action: Wszystkie Sesje
+sponsors_section.heading: Nasi Sponsorzy
+sponsors_section.subheading: Wielkie podziękowania dla naszych darczyńców!
+event_highlights_section.number_of_speakers:
+    one: '{{ . }} Mówca'
+    other: '{{ . }} Mówców'
+event_highlights_section.number_of_sessions:
+    one: '{{ . }} Sesja'
+    other: '{{ . }} Sesje'
+event_highlights_section.number_of_days:
+    one: '{{ . }} Dzień'
+    other: '{{ . }} Dni'
+speaker_page.sessions_by: Sesje
+session_page.further_sessions: Kolejne Sesje
+session_page.further_sessions_from: Kolejne Sesje
+carousel.button_next: Dalej
+carousel.button_previous: Wróć
+session_categories.label: Kategorie

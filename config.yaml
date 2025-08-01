@@ -1,0 +1,50 @@
+baseURL: http://psss.fussions.com/
+languageCode: pl-pl
+title: Pokolenia Solidarności, a Spółdzielnia Świetlik
+languages:
+  pl:
+    menus:
+      main: 
+          - identifier: location
+            pageRef: /location
+          - identifier: sessions
+            pageREf: /sessions
+          - identifier: speakers
+            pageRef: /speakers
+          - identifier: about
+            pageRef: /about
+theme: event
+sectionPagesMenu: main
+params:
+  themes:
+    event:
+      title: Pokolenia Solidarności, a Spółdzielnia Świetlik
+      shortTitle: PSSŚ
+      slogan: Debata
+      images:
+        logo: logos/swietlik.png
+        location: images/ecs.jpg
+      location: Gdańsk, ECS
+      address:
+        - Europejskie Centrum Solidarności (ECS)
+        - pl. Solidarności 1
+        - Gdańsk
+        - sala **Audytorium**
+      startDate: 2025-08-21T17:00:00
+      endDate: 2025-08-21T21:00:00
+      map:
+        # Google maps: https://maps.app.goo.gl/HGbFqoR6doKnaUgf8
+        embeddableMapUrl: https://www.openstreetmap.org/export/embed.html?bbox=18.641974925994877%2C54.35871318503625%2C18.656480312347416%2C54.36399560494351&marker=54.36135144887275%2C18.649227500707866
+      callToAction:
+        enableBanner: false
+      trackCategoryTitle: Ścieżki
+      colors:
+          primaryLighter: '#fa4d4d'
+          primary: '#ff2121'
+          primaryDarker: '#590101'
+          primaryDarkest: '#291212'
+          secondary: '#f7f8fa'
+          secondaryDarker: '#637381'
+          track: '#565901'
+          shadow: '#a6afc366'
+      description: content/description.md
