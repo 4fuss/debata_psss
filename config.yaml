@@ -48,4 +48,6 @@ params:
           track: '#565901'
           shadow: '#a6afc366'
       description: content/description.md
-      aboutUs: content/swietlik.md
+      aboutUs: 
+        description: content/aboutus_describe.md
+        rollup: content/swietlik.md
