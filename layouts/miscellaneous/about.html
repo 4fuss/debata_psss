@@ -7,7 +7,7 @@
     <div class="section-container">
         <section class="section about">
             <div class="markdown about__text">
-            <p>{{ readFile $event.aboutUs.description | markdownify }}</p>
+            {{ readFile $event.aboutUs.description | markdownify }}
             </div>
                 <div class="markdown about__text">
                     {{ $event.aboutUs.Params.description | markdownify }}
