@@ -29,3 +29,5 @@ polityczną współczesnej Polski.
 Odwiedź naszą stronę: [swietlik.org](https://swietlik.org "Świetlik")
 
 Zasubskrybuj nasz kanał na YT: [Spółdzielnia Świetlik](https://www.youtube.com/@spodzielniaswietlik "Świetlik YT")
+
+{{< youtube o3KvE3ZVAPw >}}
