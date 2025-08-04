@@ -9,14 +9,14 @@ cta_section.subheading: Register today!
 cta_section.message: |
     Don't miss the chance to learn from leading experts and make valuable
     contacts!
-header_featured_speakers: Główni Mówcy
-speakers_page.heading: Mówcy
+header_featured_speakers: Paneliści
+speakers_page.heading: Paneliści
 speakers_page.social_links: '{{ . }} media społecznościowe'
 sessions_page.heading: Harmonogram
 sessions_page.day: Dzień {{ . }}
 sessions_page.heading_day_filter: Data
 sessions_page.heading_track_filter: Panel
-sessions_page.speaker: Mówca
+sessions_page.speaker: Panelista
 sessions_page.room: Sala
 sessions_page.read_more: dowiedz się wiećej
 sessions_page.heading_no_sessions: Jeszcze nie zaplanowano żadnej sesji
@@ -51,8 +51,8 @@ featured_sessions_section.action: Wszystkie Sesje
 sponsors_section.heading: Nasi Sponsorzy
 sponsors_section.subheading: Wielkie podziękowania dla naszych darczyńców!
 event_highlights_section.number_of_speakers:
-    one: '{{ . }} Mówca'
-    other: '{{ . }} Mówców'
+    one: '{{ . }} Panelista'
+    other: '{{ . }} Panelistów'
 event_highlights_section.number_of_sessions:
     one: '{{ . }} Sesja'
     other: '{{ . }} Sesje'
