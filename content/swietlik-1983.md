@@ -1,4 +1,8 @@
-# Świetlik - Gdańsk 1983 - 1984
+---
+title: 'Świetlik - Gdańsk 1983 - 1994'
+---
+
+# Świetlik - Gdańsk 1983 - 1994
 
 {{< youtube CDP3gpTIuXo >}}
 
@@ -22,12 +26,3 @@ w demokratycznym kraju.
 W filmie reżyser Jacek Knopp wraca do początków procesu kształtowania 
 się ich poglądów i charakterów. Odpowiada także na pytanie o genezę 
 polityczną współczesnej Polski.
-
-
-# Świetlik Reaktywacja 2013&#x2011;2025
-
-Odwiedź naszą stronę: [swietlik.org](https://swietlik.org "Świetlik")
-
-Zasubskrybuj nasz kanał na YT: [Spółdzielnia Świetlik](https://www.youtube.com/@spodzielniaswietlik "Świetlik YT")
-
-{{< youtube o3KvE3ZVAPw >}}

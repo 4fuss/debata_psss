@@ -7,19 +7,21 @@ languages:
       main: 
           - identifier: location
             pageRef: /location
+          - identifier: swietlik-1983
+            pageRef: /swietlik-1983
+          - identifier: swietlik-reaktywacja
+            pageRef: /swietlik-reaktywacja
           - identifier: sessions
             pageREf: /sessions
           - identifier: speakers
             pageRef: /speakers
-          - identifier: about
-            pageRef: /about
 theme: event
 sectionPagesMenu: main
 params:
   themes:
     event:
       title: Pokolenia Solidarności, a Spółdzielnia Świetlik
-      shortTitle: PSSŚ
+      shortTitle: 'Strona Główna'
       slogan: Debata
       images:
         logo: logos/swietlik.png
@@ -48,6 +50,3 @@ params:
           track: '#565901'
           shadow: '#a6afc366'
       description: content/description.md
-      aboutUs: 
-        description: content/aboutus_describe.md
-        rollup: content/swietlik.md
