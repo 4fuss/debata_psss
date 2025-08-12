@@ -1,17 +1,13 @@
-Spółdzielnia Świetlik i jej pracownicy odegrali ogromną rolę w latach 80-tych na Wybrzeżu, Dolnym Śląsku, w Rzeszowie, Krakowie, Bydgoszczy, Dzierżoniowie Śląskim, Warszawie i wielu innych miastach.
-Mijają lata, czas zaciera pamięć i wspomnienia tamtych czasów, a jest to bezcenne świadectwo na to, że wolność zaczyna się od odwagi jednostek i nawet w opresyjnym systemie można tworzyć przestrzeń niezależności.
+Spółdzielnia Świetlik była azylem dla opozycjonistów, dawała nie tylko zatrudnienie i dobre zarobki ale było regułą, że część wynagrodzeń z Kontraktów pracownicy przeznaczali na  potrzeby wydawnictw opozycyjnych, rodziny uwięzionych oraz  na niezależne inicjatywy – Spółdzielnia Świetlik stała się unikalnym zjawiskiem w realiach PRL. W latach 80-tych XX wieku dawała autentyczną przestrzeń wolności i praktykowała solidarność społeczną. Jak przenieść doświadczenia z tamtych lat do dzisiejszych realiów społecznych, ekonomicznych i politycznych? – zapraszamy do rozmowy.
 
-Debata ma na celu uhonorować ludzi, którzy działali dla dobra wspólnego i 
-ocalić pamięć o alternatywnej Polsce tamtej epoki, która powstawała oddolnie, poza oficjalnymi strukturami.
+Spółdzielnia Świetlik powstała w czerwcu 1983 roku w Gdańsku, powołana przez studentów i absolwentów Uniwersytetu Gdańskiego ( Maciej Płażyński, Roman Rojek, Małgorzata Rojek, Jarosław Czarniecki, Tomasz Chodnikiewicz, Marek Kotlarz. Janusz  Starzyński, Zbigniew Gołębiewski ) którzy znali się już wcześniej zarówno ze studiów ( Wydział Prawa i Wydział Ekonomii ) z działalności opozycyjnej na UG, struktur NZS-u  oraz ze wspólnej pracy w ramach Spółdzielni Studenckiej Techno-serwis. Spółdzielnia Świetlik ( od 1987 Gdańsk ) zakończyła działalność w 1996 roku. W 2013 roku część środowiska utworzyła ponownie spółdzielnię pod nazwą Świetlik Reaktywacja.
 
-Poprzez powrót do korzeni, początków i całej historii z lat 80-tych ma pokazać młodszym pokoleniom jak ważna jest solidarność w czasach kryzysów i podziałów.
+– Spółdzielnia Świetlik i jej pracownicy odegrali ogromną rolę w latach 80. na Wybrzeżu, Dolnym Śląsku, w Rzeszowie, Krakowie, Bydgoszczy, Dzierżoniowie Śląskim i wielu innych miastach, budując historię odwagi, pracy zespołowej i marzeń o lepszej przyszłości – mówi Tomasz Chodnikiewicz, założyciel i prezes Spółdzielni Świetlik, a jednocześnie moderator debaty. 
 
-Jednocześnie jej celem jest też zbudowanie pomostu między przeszłością, a teraźniejszością poprzez podkreślenie, że duch „Świetlika” jest cały czas obecny w postaci inicjatyw łączących przedsiębiorczość z wartościami, aktywny w różnych obecnie toczących się projektach obywatelskich, a przede wszystkim w ludziach. 
-W członkach Spółdzielni Świetlik, którzy wiedzą i czują, że poprzez wspólne, solidarne działanie mogą szybciej osiągać cele zachowując wolność w każdych okolicznościach, dotyczących zarówno swojej osobistej sytuacji życiowej jak i krajowej, czy ogólnoświatowej.
+Twórcy Debaty chcą pokazać przestrzeń zbudowana wówczas przez środowisko opozycji wybrzeża połączone w działaniach w Spółdzielni Świetlik, upamiętnić alternatywną Polskę, która powstawała oddolnie, poza wypaczonymi strukturami ówczesnego państwa opartego na reżimie oraz dowieść, jak ważna jest zwykła solidarność międzyludzka, szczególnie w czasach kryzysów, podziałów i napięć społecznych.
 
-Dla kogo jest ta Debata? Dla wszystkich!
-Dla tych, którzy byli i są członkami Świetlika, którzy tworzyli to wielkie środowisko ludzi wolnych i solidarnych oraz dla współpracujących współcześnie ze Świetlikiem.
-Jest też dla tych, którzy po prostu chcą zainspirować się jego dziedzictwem: historią odwagi, pracy zespołowej i marzeń o lepszej przyszłości.
+– Duch Świetlika jest cały czas obecny w postaci inicjatyw łączących przedsiębiorczość z wartościami, aktywny w różnych obecnie toczących się projektach obywatelskich, a przede wszystkim w ludziach – podkreśla Tomasz Chodnikiewicz. – Wolność wymaga aktywności i współdziałania, co nawet w opresyjnym systemie może tworzyć przestrzeń niezależności.
 
-Zapraszamy wszystkich serdecznie do udziału w Debacie:
-„Pokolenia Solidarności, a Spółdzielnia Swietlik”.
+W debacie udział wezmą twórcy członkowie oraz osoby współpracujące ze Świetlikiem, w tym m.in.: Zenia Miotke, Izabela Falzmann, Joanna Milewska, Barbara Chodnikiewicz, Marek Zająkała, Wojciech Kreft, Wiesław Kamiński, Witold Kamiński, Jan Kaczyński, Sławomir Wejner, Krzysztof Frączak, Andrzej Nowicki, Andrzej Voight, Tomasz Chodnikiewicz, Janusz Starzyński,  Wojciech Kmita a w panelu Teraźniejszość : Senta Wojaczyk, Magdalena Saja, Monika Półrolnik, Kamil Nowak, Maciej Krawczyk, Piotr Grzegorz Konopka, Andrzej Voigt, Tomasz Chodnikiewicz, Stefan Poprawa, Tomasz Lelewski, Mateusz Chodnikiewicz, Krzysztof Choroś. 
+
+Organizatorami wydarzenia jest Stowarzyszenie Przyjaciół Macieja Płażyńskiego oraz Spółdzielnia Świetlik.
