@@ -32,6 +32,7 @@ params:
         - pl. Solidarności 1
         - Gdańsk
         - sala **Audytorium**
+        - "Data wydarzenia: 21 sierpień 2025"
       startDate: 2025-08-21T17:00:00
       endDate: 2025-08-21T21:00:00
       map:
