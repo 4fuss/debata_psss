@@ -1,6 +1,6 @@
 baseURL: http://psss.fussions.com/
 languageCode: pl-pl
-title: Pokolenia Solidarności, a Spółdzielnia Świetlik
+title: Pokolenia Solidarności a Spółdzielnia Świetlik
 languages:
   pl:
     menus:
@@ -20,7 +20,7 @@ sectionPagesMenu: main
 params:
   themes:
     event:
-      title: Pokolenia Solidarności, a Spółdzielnia Świetlik
+      title: Pokolenia Solidarności a Spółdzielnia Świetlik
       shortTitle: 'Strona Główna'
       slogan: Debata
       images:
