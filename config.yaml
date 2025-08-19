@@ -20,7 +20,7 @@ sectionPagesMenu: main
 params:
   themes:
     event:
-      title: Pokolenia Solidarności a Spółdzielnia Świetlik
+      title: "Pokolenia Solidarności a Spółdzielnia Świetlik"
       shortTitle: 'Strona Główna'
       slogan: Debata
       images:

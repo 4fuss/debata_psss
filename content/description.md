@@ -8,6 +8,15 @@ Twórcy Debaty chcą pokazać przestrzeń zbudowana wówczas przez środowisko o
 
 – Duch Świetlika jest cały czas obecny w postaci inicjatyw łączących przedsiębiorczość z wartościami, aktywny w różnych obecnie toczących się projektach obywatelskich, a przede wszystkim w ludziach – podkreśla Tomasz Chodnikiewicz. – Wolność wymaga aktywności i współdziałania, co nawet w opresyjnym systemie może tworzyć przestrzeń niezależności.
 
-W debacie udział wezmą twórcy członkowie oraz osoby współpracujące ze Świetlikiem, w tym m.in.: Zenia Miotke, Izabela Falzmann, Joanna Milewska, Barbara Chodnikiewicz, Marek Zająkała, Wojciech Kreft, Wiesław Kamiński, Witold Kamiński, Jan Kaczyński, Sławomir Wejner, Krzysztof Frączak, Andrzej Nowicki, Andrzej Voight, Tomasz Chodnikiewicz, Janusz Starzyński,  Wojciech Kmita a w panelu Teraźniejszość : Senta Wojaczyk, Magdalena Saja, Monika Półrolnik, Kamil Nowak, Maciej Krawczyk, Piotr Grzegorz Konopka, Andrzej Voigt, Tomasz Chodnikiewicz, Stefan Poprawa, Tomasz Lelewski, Mateusz Chodnikiewicz, Krzysztof Choroś. 
+W debacie udział wezmą m.in. dawni i obecni członkowie Świetlika: Marek Zająkała, Wojciech Kreft, Wiesław Kamiński, Andrzej Voigt, Tomasz Chodnikiewicz, Joanna Leczkowska, Sławomir Wejnar, Witold Kamiński, Krzysztof Kilian, Grzegorz Szrejder, Krzysztof Frączak, Wojciech Hodur, Mirosław Grabowski, Jan Kaczyński i wielu innych.
+
+Głos zabierze także młodsze pokolenie społeczników i aktywistów, m.in. Senta Wojaczyk, Magdalena Saja, Kamil Nowak, Maciej Krawczyk, Piotr Grzegorz Konopka, Monika Półrolnik i wielu innych.
 
 Organizatorami wydarzenia jest Stowarzyszenie Przyjaciół Macieja Płażyńskiego oraz Spółdzielnia Świetlik.
+
+
+Debatę poprowadzi Ireneusz Osiński
+
+W wydarzeniu można uczesniczyć online poprzez link:
+https://us06web.zoom.us/j/84099822057?pwd=jx2Xz9k6rWpgf648RJaEov0gqyTsGl.1
+
